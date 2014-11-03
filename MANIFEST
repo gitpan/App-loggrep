@@ -10,6 +10,7 @@ TODO.md
 bin/loggrep
 dist.ini
 lib/App/loggrep.pm
+lib/App/loggrep.pm.tdy
 t/00-compile.t
 t/000-report-versions-tiny.t
 t/basic.t
